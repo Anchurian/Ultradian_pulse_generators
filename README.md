@@ -31,7 +31,7 @@ with the clearance coefficient $\alpha>0$  and the secretion rate given by a fun
 Let $V(t)$ be an impulsive membrane potential.
 The pulsation times $t_n$ are defined from 
 ~~~math 
-t_0=0, \quad t_{n+1} = \min\{t \;:\; t>t_n,  V(t)=\Delta\}.            
+t_0=0, \quad t_{n+1} = \min\{t \;:\; t>t_n,\quad  V(t)=\Delta\}.            
 ~~~
 where $\Delta>0$ a given threshold. After the impulse, the potential resets to zero, i.e.
 ~~~math
