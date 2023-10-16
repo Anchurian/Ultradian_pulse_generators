@@ -111,4 +111,12 @@ where $\alpha_3$, $k_3$ are positive parameters.
 The depository contains a MATLAB program for simulating and drawing hormonal profiles.
 The simulations are illustrated with figures pic01.png, pic02.png, pic03.png given in Images folder.
 
+![Hormonal profiles for isolated hypothalamic and pituitary hormonal generators.](https://github.com/Anchurian/Ultradian_pulse_generators/blob/main/Images/pic1.png)
+Hormonal profiles for isolated hypothalamic and pituitary hormonal generators.
+
+![Hormonal profiles for the lesioned circadian input.](https://github.com/Anchurian/Ultradian_pulse_generators/blob/main/Images/pic2.png)
+Hormonal profiles for the circadian input.
+
+![Hormonal profiles for the circadian input.](https://github.com/Anchurian/Ultradian_pulse_generators/blob/main/Images/pic3.png)
+Hormonal profiles for the lesioned circadian input.]
 
