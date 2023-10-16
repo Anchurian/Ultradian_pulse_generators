@@ -115,8 +115,8 @@ The simulations are illustrated with figures pic01.png, pic02.png, pic03.png giv
 Hormonal profiles for isolated hypothalamic and pituitary hormonal generators.
 
 ![Hormonal profiles for the lesioned circadian input.](https://github.com/Anchurian/Ultradian_pulse_generators/blob/main/Images/pic2.png)
-Hormonal profiles for the circadian input.
+Hormonal profiles for the lesioned circadian input.
 
 ![Hormonal profiles for the circadian input.](https://github.com/Anchurian/Ultradian_pulse_generators/blob/main/Images/pic3.png)
-Hormonal profiles for the lesioned circadian input.]
+Hormonal profiles for the circadian input.]
 
