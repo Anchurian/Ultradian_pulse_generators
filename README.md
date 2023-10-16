@@ -120,3 +120,13 @@ Hormonal profiles for the lesioned circadian input.
 ![Hormonal profiles for the circadian input.](https://github.com/Anchurian/Ultradian_pulse_generators/blob/main/Images/pic3.png)
 Hormonal profiles for the circadian input.
 ***
+## Our previous publications on integrate-and-fire models
+
+1. *A. N. Churilov, J. Milton, and E. R. Salakhova.*
+An integrate-and-fire model for pulsatility in the neuroendocrine
+  system.
+*Chaos (AIP journal)*, **30**(8):083132, 2020.
+
+2. *A. N. Churilov and J. G. Milton.*
+Modeling pulsativity in the hypothalamic-pituitary-adrenal hormonal axis.
+*Scentific Reports*, **12**:8480, 2022.
